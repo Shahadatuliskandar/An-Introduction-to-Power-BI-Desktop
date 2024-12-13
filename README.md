@@ -6,5 +6,5 @@ Please follow these steps to start using the Power BI Sample Data properly:
        (a) One folder named "Group Work"
        (b) Two CSV files named "Geographic Details" and "Products Details"
        (c) Three XLSX files named starting with "Data File"
-  5. Make sure you know your extracted folder location
+  5. Make sure all the items above are extracted in a single folder location
   6. OPTIONAL: Delete the zip file to avoid any confusion
