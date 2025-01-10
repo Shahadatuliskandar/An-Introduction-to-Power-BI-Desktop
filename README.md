@@ -1,3 +1,4 @@
+# An Introduction to Power BI Desktop
 Please follow these steps to start using the Power BI Sample Data properly:
   1. Click on the Power BI Sample Data.zip filename from the list
   2. Click on the Raw button and your web browser should be automatically downloading the file into your system
